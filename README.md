@@ -16,7 +16,7 @@ Do the following things:
 
 # User stories
 
-1. As a user
+1. As a user /n
    I want to be able to add new bookmark, delete or update a list of bookmarks.
    
  2. As a user 
