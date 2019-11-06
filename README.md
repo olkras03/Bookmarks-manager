@@ -19,17 +19,17 @@ Do the following things:
 1. As a user <br/>
    I want to be able to add new bookmark, delete or update a list of bookmarks.
    
- 2. As a user 
+ 2. As a user  <br/>
     I want to be able to show a list of bookmarks
     
- 3. As a user 
+ 3. As a user  <br/>
     I want to be able to leave comments on a bookmark
  
- 4. As a user 
+ 4. As a user  <br/>
     I want to be able to tag bookmarks into categories
  
- 5. As a user 
+ 5. As a user  <br/>
     I want to be able filter bookmarks by tag
     
- 6. As admin
+ 6. As admin  <br/>
     I want a user to restricted to manage only their own bookmarks
