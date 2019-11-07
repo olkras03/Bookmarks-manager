@@ -17,7 +17,10 @@ Do the following things:
 # User stories
 
 1. As a user <br/>
-   I want to be able to add new bookmark, delete or update a list of bookmarks.
+   I want to be able to add new bookmark to the Bookmark manager for later retrieval.
+   
+   
+2. delete or update a list of bookmarks.
    
  2. As a user  <br/>
     I want to be able to show a list of bookmarks
